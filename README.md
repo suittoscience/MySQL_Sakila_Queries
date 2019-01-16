@@ -1,2 +1,2 @@
-# Sakila_HW
-HW Assignment 7 (MySQL/Sakila)
+# MySQL_Sakila_Queries
+Assignment 7 (MySQL/Sakila)
